@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.turno.los.service.LoanProcessingJobTest
+-------------------------------------------------------------------------------
+Tests run: 52, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.240 s -- in com.turno.los.service.LoanProcessingJobTest

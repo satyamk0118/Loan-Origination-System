@@ -1,0 +1,4 @@
+com/turno/los/controller/LoanControllerTest.class
+com/turno/los/service/LoanServiceTest.class
+com/turno/los/service/AgentServiceTest.class
+com/turno/los/service/LoanProcessingJobTest.class
